@@ -13,6 +13,5 @@ The application depicts CRUD operations.
 7. open "http://localhost:3000/" in browser
 
 ## Login credentials
-1. alice@ibm.com, alice123 or,
-2. bob@accenture.com, bob123
+1. sumanta@ibm.com, sumanta@123
 
